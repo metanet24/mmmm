@@ -1,0 +1,10 @@
+h3{
+    color: yellow;
+    background-color: magenta;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
